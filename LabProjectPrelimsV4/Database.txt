@@ -1,0 +1,6 @@
+=== STUDENT DATABASE ===
+Format: StudentID,LastName,FirstName,MiddleName,DateOfBirth,Password|ProfileData
+ProfileData Format: Gender=value;Citizenship=value;Religion=value;CivilStatus=value;Birthplace=value;Nationality=value;HomeAddress=value;HomeTel=value;BaguioAddress=value;BaguioTel=value;Cellphone=value;FatherName=value;FatherOcc=value;MotherName=value;MotherOcc=value;GuardianName=value;GuardianAddress=value;
+
+2250493,Atsumi,Sae,Cristobal,10/24/2005,saeatsumi|Gender=Female;Citizenship=Japanese;Religion=Roman Catholic;CivilStatus=Single;Birthplace=Urdaneta;Nationality=Japanese;HomeAddress=Urdaneta;HomeTel=987;BaguioAddress=Bonifacio;BaguioTel=654;Cellphone=321;FatherName=hideo;FatherOcc=laborer;MotherName=cristina;MotherOcc=housewife;GuardianName=lisa;GuardianAddress=urdaneta;
+2251834,Madriaga,Aldine,Guleng,10/24/2005,aldine|Gender=Female;Citizenship=Filipino;Religion=Roman Catholic;CivilStatus=Single;Birthplace=LUMC;Nationality=Filipino;HomeAddress=Agoo, La Union;HomeTel=3216548698;BaguioAddress=Bonifacio;BaguioTel=987654321;Cellphone=09204998480;FatherName=Albert;FatherOcc=Secret;MotherName=Salva;MotherOcc=Secret;GuardianName=Aldrin;GuardianAddress=Brookside;
